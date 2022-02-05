@@ -25,4 +25,4 @@ JOB_NAME=demo-test-`date -u +"%Y%m%d-%H%M%S"`
 
 gcloud dataflow jobs run ${JOB_NAME} \
     --gcs-location=gs://$BUCKET_NAME/demo-test-template.json \
-    --region=$REGION \
+    --region=$REGION

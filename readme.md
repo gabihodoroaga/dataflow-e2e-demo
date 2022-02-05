@@ -36,4 +36,4 @@ Run the e2e tests
 
 ## Author 
 
-Gabriel Hodoroaga [hodo.dev](https://hodo.dev)
+Gabriel Hodoroaga [hodo.dev](https://hodo.dev).
