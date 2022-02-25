@@ -43,10 +43,11 @@ dependencies {
 
    implementation("org.slf4j:slf4j-api:1.7.30")
    implementation("org.slf4j:slf4j-jdk14:1.7.30")
-   implementation("org.apache.beam:beam-sdks-java-core:2.32.0")
-   implementation("org.apache.beam:beam-runners-direct-java:2.32.0")
-   implementation("org.apache.beam:beam-runners-google-cloud-dataflow-java:2.32.0")
-   implementation("org.apache.beam:beam-sdks-java-io-google-cloud-platform:2.32.0")
+   implementation("org.apache.beam:beam-sdks-java-core:2.35.0")
+   implementation("org.apache.beam:beam-runners-direct-java:2.35.0")
+   implementation("org.apache.beam:beam-runners-google-cloud-dataflow-java:2.35.0")
+   implementation("org.apache.beam:beam-sdks-java-io-google-cloud-platform:2.35.0")
+   implementation("com.google.cloud:google-cloud-bigquery:2.6.2")
    // protobuf
    implementation("com.google.protobuf:protobuf-java:3.0.0")
 

@@ -32,6 +32,8 @@ class E2eTestsDemo {
 
     var pubsubTopic: String? = null
     var pubsubSubscription: String? = null
+    val pubsubOtherTopic: String? = null
+    val pubsubOtherSubscription: String? = null
     var bigQueryOutputTable: String? = null
     var bigQueryOutput2Table: String? = null
 
